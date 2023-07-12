@@ -6,5 +6,23 @@ I am **Aria** .I have a B.Eng. in the field of **track and control** and a M.Sc.
 Currently, I actively **lead** an exciting **Multimodality** **Metahuman** Project, specifically focusing on **LLMs** and **HCI**. I firmly believe that **Embodied AI** shapes the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities.
   
 🤗 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
+
+
+---
+- 📫 How to reach me:
+- :octocat: [github](https://github.com/ariafyy)
+- :email: [mailbox](mailto:mitfyy759915983@163.com )
     
+---
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+</p>    
 
