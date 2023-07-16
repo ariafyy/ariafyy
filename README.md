@@ -9,12 +9,19 @@ Currently, I actively **lead** an exciting **Multimodality** **Metahuman** Proje
 
 
 ---
+<!-- Introduction -->
 - 📫 How to reach me:
 - :octocat: [github](https://github.com/ariafyy)
 - :email: [mailbox](mailto:mitfyy759915983@163.com )
 - :house: [homepage](https://ariafyy.github.io/)
-    
+ 
+
 ---
+<!-- Github Stats -->
+- ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark)](https://github.com/ariafyy/github-profile-trophy)
+
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
