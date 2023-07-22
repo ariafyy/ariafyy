@@ -1,27 +1,59 @@
-# 👋 Actively seeking PhD/RA position in USA!!!
+# 👋 Actively Seeking PhD/RA Position in USA!!!
 
 
 I am **Aria** .I have a B.Eng. in the field of **track and control** and a M.Sc. in the field of  (**nonlinear dynamic and control**). I have several years of work experience in AI, specializing in **NLP** and **Multimodality**.
 
 Currently, I actively **lead** an exciting **Multimodality** **Metahuman** Project, specifically focusing on **LLMs** and **HCI**. I firmly believe that **Embodied AI** shapes the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities.
   
-🤗 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
+🤗 :octocat: 🧠 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
 
 
----
-<!-- Introduction -->
-- 📫 How to reach me:
-- :octocat: [github](https://github.com/ariafyy)
-- :email: [mailbox](mailto:mitfyy759915983@163.com )
-- :house: [homepage](https://ariafyy.github.io/)
+
  
 
+
+ 
+ 
+
+
+<!-- Introduction 📫 
 ---
-<!-- Github Stats -->
-- ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
+- :octocat: How To Reach **Me**:
+- :octocat: [github](https://github.com/ariafyy)
+- :email: [mailbox](mailto:mitfyy759915983@163.com)
+- :house: [homepage](https://ariafyy.github.io/) 
+-->
 
 
+
+[![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
+[![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:mitfyy759915983@163.com)
+[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
+
+ 
+ 
+---
+### Skills
+<!-- skills -->
+<p align="left"> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+</p>
+
+
+
+
+<!--  
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -33,4 +65,27 @@ Currently, I actively **lead** an exciting **Multimodality** **Metahuman** Proje
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   </a>
 </p>    
+--> 
 
+
+
+
+<!-- gitHub status -->
+<!-- 
+[![STATS (troph)](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/ariafyy)
+[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=ariafyy&theme=dracula)](https://github.com/ariafyy)
+ <img src="https://github-readme-stats.vercel.app/api?username=ariafyy&show_icons=true&theme=dracula&count_private=true&" alt="ariafyy's Github stat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariafyy&theme=dracula" alt="ariafyy stat" /><br />
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariafyy&layout=compact&theme=dracula&langs_count=12"/>
+</p>
+ -->
+
+
+
+
+---
+<!-- Github Stats -->
+- ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
