@@ -72,6 +72,7 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 
 <!-- gitHub status -->
 <!-- 
+- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shibing624&langs_count=3&hide=javascript,go,html,css,tex,Roff)
 [![STATS (troph)](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/ariafyy)
 [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=ariafyy&theme=dracula)](https://github.com/ariafyy)
  <img src="https://github-readme-stats.vercel.app/api?username=ariafyy&show_icons=true&theme=dracula&count_private=true&" alt="ariafyy's Github stat" />
@@ -88,4 +89,5 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 ---
 <!-- Github Stats -->
 - ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-?,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
+
