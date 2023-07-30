@@ -86,8 +86,16 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 
 
 
+
+
 ---
 <!-- Github Stats -->
 - ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-?,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
+
+
+ 
+![](https://count.getloli.com/get/@ariafyy.github.readme)
+</br>
+</p>
 
