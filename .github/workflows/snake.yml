@@ -20,6 +20,14 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+
+
+          ## supported options:
+         # - palette:     A preset of color, one of [github, github-dark, github-light]
+         # - color_snake: Color of the snake
+         # - color_dots:  Coma separated list of dots color.
+         #                The first one is 0 contribution, then it goes from the low contribution to the highest.
+         #                Exactly 5 colors are expected.
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
@@ -28,3 +36,5 @@ jobs:
         with:
           branch: main
           message: 'Generate Contribution Snake' 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
