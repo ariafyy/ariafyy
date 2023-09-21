@@ -94,8 +94,10 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-?,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
 
 
- 
+ <!-- moe count 
 ![](https://count.getloli.com/get/@ariafyy.github.readme)
+-->
 </br>
 </p>
 
+![Gelbooru](https://count.getloli.com/get/@ariafyy.github.readme?theme=gelbooru)</details>
