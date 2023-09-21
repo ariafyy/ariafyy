@@ -70,7 +70,7 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 
 
 
-<!-- gitHub status -->
+<!-- GitHub status -->
 <!-- 
 - ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shibing624&langs_count=3&hide=javascript,go,html,css,tex,Roff)
 [![STATS (troph)](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/ariafyy)
@@ -93,6 +93,9 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 - ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-?,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
 
+       
+
+
 
  <!-- moe count 
 ![](https://count.getloli.com/get/@ariafyy.github.readme)
@@ -101,3 +104,11 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 </p>
 
 ![Gelbooru](https://count.getloli.com/get/@ariafyy.github.readme?theme=gelbooru)</details>
+
+
+ <!-- snake
+##  GitHub contribution
+
+![亮色](https://raw.githubusercontent.com/ariafyy/ariafyy/main/assets/github-contribution-grid-snake.svg)  
+-->
+![亮色](https://raw.githubusercontent.com/ariafyy/ariafyy/main/assets/github-contribution-grid-snake.svg)  
