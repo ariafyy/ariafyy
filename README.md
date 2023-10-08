@@ -112,3 +112,4 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 ![亮色](https://raw.githubusercontent.com/ariafyy/ariafyy/main/assets/github-contribution-grid-snake.svg)  
 -->
 ![亮色](https://raw.githubusercontent.com/ariafyy/ariafyy/main/assets/github-contribution-grid-snake.svg)  
+-->
