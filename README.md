@@ -3,7 +3,7 @@
 
 I am **Aria** .I have a B.Eng. in the field of **track and control** and a M.Sc. in the field of  (**nonlinear dynamic and control**). I have several years of work experience in AI, specializing in **NLP** and **Multimodality**.
 
-Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specifically focusing on **LLMs** and **HCI**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities.
+Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specifically focusing on **LLMs** and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities.
   
 🤗 :octocat: 🧠 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
 
