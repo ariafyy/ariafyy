@@ -1,7 +1,7 @@
 # 👋 Actively Seeking PhD/RA Position in USA!!!
 
 
-I am **Aria** .I have a B.Eng. in the field of **track and control** and a M.Sc. in the field of  (**nonlinear dynamic and control**). I have several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
+I am **Aria** .I have a B.Eng. and a M.Eng. in the field of ME. I have several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
 
 Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specifically focusing on **LLMs** and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities.
   
