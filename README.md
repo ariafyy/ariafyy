@@ -22,13 +22,14 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 - :octocat: [github](https://github.com/ariafyy)
 - :email: [mailbox](mailto:mitfyy759915983@163.com)
 - :house: [homepage](https://ariafyy.github.io/) 
+[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
+
 -->
 
 
 
 [![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
 [![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:mitfyy759915983@163.com)
-[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
 
  
  
