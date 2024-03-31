@@ -22,7 +22,7 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 - :octocat: [github](https://github.com/ariafyy)
 - :email: [mailbox](mailto:mitfyy759915983@163.com)
 - :house: [homepage](https://ariafyy.github.io/) 
-[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
+
 
 -->
 
@@ -30,8 +30,8 @@ Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specific
 
 [![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
 [![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:mitfyy759915983@163.com)
-
- 
+[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
+[![](https://img.shields.io/badge/%20Google%20Schloar-20B2AA?style=for-the-badge)](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
  
 ---
 ### Skills
