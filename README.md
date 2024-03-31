@@ -1,4 +1,4 @@
-# 👋 Actively Seeking PhD/RA Position in USA!!!
+# 👋 Actively Seeking 24fall PhD Position in USA!!!
 
 
 I am **Aria** .I have a B.Eng. and a M.Eng. in the field of ME. I have several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
