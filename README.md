@@ -33,7 +33,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 
 [![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
 
-[![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:mitfyy759915983@163.com)
+[![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:ariafyy@hotmail.com)
 
 [![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
 
