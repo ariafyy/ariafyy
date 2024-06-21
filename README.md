@@ -54,7 +54,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
  -->
 
 
- <!-- 
+<!-- 
 ---
 ### Skills
 <!-- skills -->
@@ -73,7 +73,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 </p>
  -->
-
+-->
 
 
 <!--  
