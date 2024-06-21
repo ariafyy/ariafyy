@@ -72,6 +72,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 </p>
+ 
  -->
 -->
 
@@ -124,9 +125,9 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 -->
 </br>
 </p>
-
+ <!--
 ![Gelbooru](https://count.getloli.com/get/@ariafyy.github.readme?theme=gelbooru)</details>
-
+-->
 
  <!-- snake
 ##  GitHub contribution
