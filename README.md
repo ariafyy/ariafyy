@@ -41,6 +41,9 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 
 
 
+
+<!-- 
+
 [![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
 
 [![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:ariafyy@hotmail.com)
@@ -48,7 +51,10 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 [![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
 
 [![](https://img.shields.io/badge/%20Google%20Schloar-20B2AA?style=for-the-badge)](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
- 
+ -->
+
+
+ <!-- 
 ---
 ### Skills
 <!-- skills -->
@@ -66,7 +72,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 </p>
-
+ -->
 
 
 
