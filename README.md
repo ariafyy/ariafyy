@@ -1,4 +1,3 @@
-<!--  👋 
 
 
 
@@ -8,7 +7,8 @@
 
 
 
-# 👋 Actively Seeking 24fall PhD Position in USA!!!
+
+# 👋 Actively Seeking PhD /RA Position !!!
 
 
 I am **Aria** .I have a B.Eng. and a M.Eng. and several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
@@ -25,7 +25,7 @@ New Update: woking on quant analysis with AI. Soooooo interesting!!!
  
 
 
- 
+ <!--  👋 
  
 
 
