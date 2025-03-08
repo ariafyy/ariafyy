@@ -21,27 +21,17 @@ New Update: woking on finance analysis with AI, recently.
 🔥 🙌 🩰 🤗 :octocat: 🧠 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
 
 
-
- 
-
-
- <!--  👋 
- 
-
-
-<!-- Introduction 📫 
 ---
-- :octocat: How To Reach **Me**:
+- How To Reach **Me**:
 - :octocat: [github](https://github.com/ariafyy)
-- :email: [mailbox](mailto:mitfyy759915983@163.com)
+- :email: [mailbox](mailto:ariafyy@gmail.com)
 - :house: [homepage](https://ariafyy.github.io/) 
 
 
+
+ 
+<!-- Introduction 📫  👋
 -->
-
-
-
-
 <!-- 
 
 [![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
@@ -73,8 +63,7 @@ New Update: woking on finance analysis with AI, recently.
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 </p>
  
- -->
--->
+
 
 
 <!--  
@@ -120,9 +109,9 @@ New Update: woking on finance analysis with AI, recently.
 - ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
 
 
- <!-- moe count 
+ <!-- moe count -->
 ![](https://count.getloli.com/get/@ariafyy.github.readme)
--->
+
 </br>
 </p>
  <!--
