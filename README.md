@@ -11,26 +11,36 @@
 # 👋 Actively Seeking PhD Position !!!
 
 
-I am **Aria** .I have a B.Eng. and a M.Eng. and several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
+I am **Aria**. I have a B.Eng. and M.Eng. with work experience in AI, specializing in **LLMs**, **Language Agents**, and **Multimodality**.
 
-I **lead** an exciting **Multimodal** **Metahuman** Project and **AI4Finance** Project, specifically focusing on **LLMs** and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities. Wish to be a Ballerina Engineer 🩰 .
+I've **led** exciting projects including **AI4ICompanion** (Multimodal Metahuman Project) and **AI4Finance** (US stock and cryptocurrency Multi-Agent System Project), focusing specifically on **LLMs**, **Reasoning**, and **Multimodality**. 
 
+I firmly believe that **Embodied AI** will shape the future. Feel free to reach out to me via email for inquiries, collaborations, or opportunities. 
 
-New Update: woking on finance analysis with AI, recently. 
+ 
   
-🔥 🙌 🩰 🤗 :octocat: 🧠 Aria in the ✨ _Area_ ✨. Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)
+🧠 Aria in the ✨ _Area_ ✨. 🩰 
+
+
 
 
 ---
-- How To Reach **Me**:
-- :octocat: [github](https://github.com/ariafyy)
-- :email: [mailbox](mailto:ariafyy@gmail.com)
-- :house: [homepage](https://ariafyy.github.io/) 
+[![](https://img.shields.io/badge/-github-lightgray?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/ariafyy)
+
+[![](https://img.shields.io/badge/-email-lightgray?style=for-the-badge&logo=gmail)](mailto:ariafyy@hotmail.com)
+
+[![](https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logoColor=black)](https://ariafyy.github.io/)
 
 
-
- 
 <!-- Introduction 📫  👋
+:octocat:  Welcome! `Dear Earth`, thanks for visiting.(〃'▽'〃)🔥 🙌 🩰 🤗  🧠 🩰 Aspiring Ballerina Engineer
+
+- How To Reach **Me**:
+-  [:octocat:](https://github.com/ariafyy)
+-  [:email:](mailto:ariafyy@hotmail.com)
+-  [:house:](https://ariafyy.github.io/) 
+[![](https://img.shields.io/badge/%20Google%20Schloar-20B2AA?style=for-the-badge)](https://scholar.google.com.hk/citations?hl=en&tzom=-480&user=gpQ83ycAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AILGF5UJKLEnkNHSwgiGi_9zpqT-Twxjb0vL3wkS2dzR1LL_tOqaBEJQL0aH7VjRRkNrv193J7oB967S3_h5UO9H)
+
 -->
 <!-- 
 
@@ -96,21 +106,22 @@ New Update: woking on finance analysis with AI, recently.
 </p>
  -->
 
-
-
-
-
-
----
 <!-- Github Stats
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ariafyy&theme=onedark&rank=-C,-?,-B&rank=S,AAA)](https://github.com/ariafyy/github-profile-trophy)
- -->
-       
-- ![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
+ -->    
+![](https://komarev.com/ghpvc/?username=ariafyy&color=blueviolet)    
 
 
- <!-- moe count -->
+<br />
+<p align="center">
+<img src="https://count.getloli.com/get/@ariafyy.github.readme?theme=gelbooru" alt="TagMo Moe Counter!" />
+</p>
+<!-- moe count
 ![](https://count.getloli.com/get/@ariafyy.github.readme)
+-->
+
+ 
+
 
 </br>
 </p>
