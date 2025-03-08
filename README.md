@@ -8,12 +8,12 @@
 
 
 
-# 👋 Actively Seeking PhD /RA Position !!!
+# 👋 Actively Seeking PhD Position !!!
 
 
 I am **Aria** .I have a B.Eng. and a M.Eng. and several years of work experience in AI, specializing in **LLMs** , **Language Agents** and **Multimodality**.
 
-Currently, I **lead** an exciting **Multimodal** **Metahuman** Project, specifically focusing on **LLMs** and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities. Wish to be a Ballerina Engineer 🩰 .
+I **lead** an exciting **Multimodal** **Metahuman** Project and **AI4Finance** Project, specifically focusing on **LLMs** and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. For further information, kindly refer to my CV. Feel free to reach out to me via email for any inquiries, collaborations, or opportunities. Wish to be a Ballerina Engineer 🩰 .
 
 
 New Update: woking on finance analysis with AI, recently. 
