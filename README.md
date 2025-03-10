@@ -13,7 +13,7 @@
 
 I am **Aria**. I have a B.Eng. and M.Eng. with work experience in AI, specializing in **LLMs**, **Language Agents**, and **Multimodality**.
 
-I've **led** exciting projects including **AI4Companion** (Multimodal Metahuman Project) and **AI4Finance** (US stock and cryptocurrency Multi-Agent System Project), focusing specifically on **LLMs**, **Reasoning**, and **Multimodality**. I firmly believe that **Embodied AI** will shape the future. 
+I've **led** exciting projects including **AI4Companion** (Multimodal Metahuman Project) and **AI4Finance** (US stock and cryptocurrency Multi-Agent System Project), focusing specifically on **LLMs**, **Reasoning**, and **Multimodality**.  
 
 Feel free to reach out to me via email for inquiries, collaborations, or opportunities. 
 
