@@ -15,6 +15,8 @@ I am **Aria**. I have a B.Eng. and M.Eng. with work experience in AI, specializi
 
 I've **led** exciting projects including **AI4Companion** (Multimodal Metahuman Project) and **AI4Finance** (US stock and cryptocurrency Multi-Agent System Project), focusing specifically on **LLMs**, **Reasoning**, and **Multimodality**.  
 
+Open Source Contribution Projs: [MetaGPT's DataInterpreter](https://github.com/geekan/MetaGPT/tree/main/examples/di) , [MetaGPT's SELA](https://github.com/geekan/MetaGPT/tree/main/examples/sela), [OpenManus](https://github.com/mannaandpoem/OpenManus),[InCharacter](https://github.com/Neph0s/InCharacter) ,  [ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya) ,etc
+
 Feel free to reach out to me via email for inquiries, collaborations, or opportunities. 
 
  
