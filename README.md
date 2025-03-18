@@ -17,7 +17,7 @@ I've **led** exciting projects including **AI4Companion** (Multimodal Metahuman 
 
 Open Source Contribution Projs: [MetaGPT's DataInterpreter](https://github.com/geekan/MetaGPT/tree/main/examples/di) , [MetaGPT's SELA](https://github.com/geekan/MetaGPT/tree/main/examples/sela), [OpenManus](https://github.com/mannaandpoem/OpenManus),[InCharacter](https://github.com/Neph0s/InCharacter) ,  [ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya) ,etc
 
-Feel free to reach out to me via email for inquiries, collaborations, or opportunities. 
+Feel free to reach out to me via email for inquiries, collaborations, or PhD opportunities. 
 
  
   
